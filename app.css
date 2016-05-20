@@ -12,13 +12,6 @@ html {
   box-sizing: inherit;
 }
 
-img {
-  max-width: 150px;
-  margin: 0 auto;
-  position: relative;
-  top: -50px;
-}
-
 svg {
   display: block;
   width: 100%;
